@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e29779e614aae44ba6bd942a2c33525, type: 3}
+  m_Name: LevelData2
+  m_EditorClassIdentifier: 
+  _index: 2
+  _background: {fileID: 21300000, guid: d07577fdc1583904d8cd576ef280df26, type: 3}
+  _starsToOpenLevel: 4
+  _bubblePrefab: {fileID: 5905227302962382537, guid: e3ba12b68e84e904498ce60ab140c410, type: 3}
+  _amountBubble: 2
+  _spawnPoinsBubble:
+  - {fileID: 4658015143402167458, guid: 85327707d156ff7409118f18328b3511, type: 3}
+  - {fileID: 1594165454043303018, guid: 9688302f7bfae784d80591fa3143b853, type: 3}
+  _delaySpawnBubble: 3
+  _enemyPrefab: {fileID: 0}
+  _amountEnemy: 0
+  _spawnPoinsEnemy: []
+  _delaySpawnEnemy: 0

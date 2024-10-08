@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e29779e614aae44ba6bd942a2c33525, type: 3}
+  m_Name: LevelData8
+  m_EditorClassIdentifier: 
+  _index: 8
+  _background: {fileID: 21300000, guid: 4903fd81ec512d045ba1f33c902e1e1b, type: 3}
+  _starsToOpenLevel: 21
+  _bubblePrefab: {fileID: 5905227302962382537, guid: acb6793ccd040a74ca4f4c9f7eaf45fe, type: 3}
+  _amountBubble: 3
+  _spawnPoinsBubble:
+  - {fileID: 4934533571276024550, guid: 7ff4f6821916d184c80a1b641b189c46, type: 3}
+  - {fileID: 1594165454043303018, guid: 9688302f7bfae784d80591fa3143b853, type: 3}
+  - {fileID: 4658015143402167458, guid: 85327707d156ff7409118f18328b3511, type: 3}
+  - {fileID: 6991695625546583802, guid: 8379f66ee75d5cc4783c4938d22c6df3, type: 3}
+  - {fileID: 8963512603128901889, guid: a541571e9f212334d8a7f7c3b08b5bc0, type: 3}
+  - {fileID: 6045560665407333793, guid: 70f1fac86ce7e9449b897ea042afff3c, type: 3}
+  - {fileID: 4421782690536920201, guid: 2e51b4c3ca9bde24dacb06d080b426a3, type: 3}
+  - {fileID: 1310606719924640546, guid: 07ac15d90e1b9164f8295cb17fb7a737, type: 3}
+  _delaySpawnBubble: 1
+  _enemyPrefab: {fileID: 3833649464035968405, guid: e75cf2958cc287048bc95847fdca547a, type: 3}
+  _amountEnemy: 50
+  _spawnPoinsEnemy:
+  - {fileID: 7817764066772668023, guid: c9ef6a95e4da9f440bbc555b73f8b1e1, type: 3}
+  - {fileID: 1475926278049808817, guid: 9ccc37216936f644bb63248883d5515c, type: 3}
+  - {fileID: 2813495956366805956, guid: c2429b1d2c6290343bb43390c2063894, type: 3}
+  - {fileID: 8701539006288662841, guid: a169707b55c9fa3488a2b9f2a6982cec, type: 3}
+  - {fileID: 5046288833530498279, guid: 2478f58333cb0a741a38a78ddf9ed0b0, type: 3}
+  _delaySpawnEnemy: 7
