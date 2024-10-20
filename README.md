@@ -10,6 +10,14 @@
 
 Также, есть магазин со скинами для игрока. 1 монета = 1 отскок объекта от игрока. 
 
+# Особенности
+
+Проект реализован через ECS паттерн, а именно LeoECS фреймворк. Также, использовал провайдер для компонентов UniLeo.
+Для тестирования проекта нужно установить следующие фреймворки:
+
+- https://github.com/Leopotam/ecs
+- https://github.com/voody2506/UniLeo.git
+
 # Скриншоты
 ![Image Sequence_005_0000](https://github.com/user-attachments/assets/bc96dac1-c281-4c5b-ad47-4334ade3149b)
 ![Image Sequence_004_0000](https://github.com/user-attachments/assets/26e99091-c1fd-40d8-8715-df0e675551f1)
